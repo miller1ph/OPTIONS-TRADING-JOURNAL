@@ -19,4 +19,4 @@
 ### Date Closed January 14, 2026
 ### Reason for Closing: Theta < Vega * 0.015
 ### Result: WIN +336
-file:///D:/YT%20Videos/2026-02-06%2017-01-34.mp4
+
