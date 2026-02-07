@@ -6,7 +6,8 @@
 ### LONG DTE: 60 DAYS
 ### SHORT DELTA: 20
 ### LONG DELTA: 25
-
+#
+#
 ## EXIT PARAMETERS (whichever comes first):
 ### DELTA: < +90 or >-90
 ### THETA > VEGA * 0.015
