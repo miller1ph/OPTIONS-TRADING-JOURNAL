@@ -14,9 +14,9 @@
 ### GAMMA < -2
 #
 # TRADE #1: 
-## Entry Date: December 26, 2025
-## Short Feb 6, 655P; Short Feb 6, 715C; Long Feb 27, 655P; Long Feb 27, 720C
-## Date Closed January 14, 2026
-## Reason for Closing: Theta < Vega * 0.015
-## Result: WIN +336
+### Entry Date: December 26, 2025
+### Short Feb 6, 655P; Short Feb 6, 715C; Long Feb 27, 655P; Long Feb 27, 720C
+### Date Closed January 14, 2026
+### Reason for Closing: Theta < Vega * 0.015
+### Result: WIN +336
 
