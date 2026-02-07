@@ -19,3 +19,4 @@
 ## Date Closed January 14, 2026
 ## Reason for Closing: Theta < Vega * 0.015
 ## Result: WIN +336
+https://www.facebook.com/100057149091867/videos/pcb.1412050024043287/1093560722782160
