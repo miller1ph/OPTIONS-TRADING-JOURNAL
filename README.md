@@ -15,6 +15,7 @@
 ### THETA > VEGA * 0.015
 ### GAMMA < -2
 ### SHORT DTE </= 14 DAYS
+### UNDERLYING PRICE REACHED SHORT STRIKE
 #
 # TRADE #1: 
 ### Entry Date: December 26, 2025
