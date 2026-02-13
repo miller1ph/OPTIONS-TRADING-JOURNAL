@@ -1,5 +1,5 @@
 # OPTIONS-TRADING
-## CUMULATIVE PROFIT (LOSS): $ 336.00
+## CUMULATIVE PROFIT (LOSS): $ 2,645.26
 ##
 ## ENTRY PARAMETERS:
 ### STRATEGY: HYBRID CALENDAR (PUT SIDE) & DIAGONAL (CALL SIDE)
@@ -20,7 +20,14 @@
 # TRADE #1: 
 ### Entry Date: December 26, 2025
 ### Short Feb 6, 655P; Short Feb 6, 715C; Long Feb 27, 655P; Long Feb 27, 720C
-### Date Closed: January 14, 2026
+### Date Closed: January 13, 2026
 ### Reason for Closing: Theta < Vega * 0.015
 ### Result: WIN +$336.00
-
+#
+# TRADE #2: 
+### Entry Date: January 14, 2026
+### Short Feb 6, 655P; Short Feb 6, 715C; Long Feb 27, 655P; Long Feb 27, 720C
+### Date Closed: February 13, 2026
+### Reason for Closing: Short DTE = 14, Gamma > -2
+### Result: WIN +$2,309.26
+### Video: https://www.facebook.com/reel/880625461521377
