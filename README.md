@@ -26,7 +26,7 @@
 #
 # TRADE #2: 
 ### Entry Date: January 14, 2026
-### Short Feb 6, 655P; Short Feb 6, 715C; Long Feb 27, 655P; Long Feb 27, 720C
+### Short Feb 27, 660P; Short Feb 27, 710C; Long Mar 20, 660P; Long Mar 20, 715C
 ### Date Closed: February 13, 2026
 ### Reason for Closing: Short DTE = 14, Gamma > -2
 ### Result: WIN +$2,309.26
